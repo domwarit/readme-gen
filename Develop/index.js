@@ -7,38 +7,23 @@ const generateMarkdown = require('./utils/generateMarkdown');
 const questions = [
     {
         type: 'input',
-        name: 'github',
-        message: 'Please enter username'
-    },
-    {
-        type: 'input',
-        name: 'header',
-        message: 'Please enter your header'
-    },
-    {
-        type: 'input',
         name: 'projectTitle',
         message: 'Please enter the title of your project'
     },
     {
         type: 'input',
         name: 'description',
-        message: 'Please enter description'
-    },
-    {
-        type: 'input',
-        name: 'contents',
-        message: 'Does you project have a table of contents'
+        message: 'Please describe your project'
     },
     {
         type: 'input',
         name: 'installation',
-        message: 'Installation'
+        message: 'Which installation is this'
     },
     {
         type: 'input',
         name: 'usage',
-        message: 'Usage'
+        message: 'Please describe the usage for this program'
     },
     {
         type: 'input',
@@ -53,12 +38,12 @@ const questions = [
     {
         type: 'input',
         name: 'test',
-        message: 'Test'
+        message: 'Number of test'
     },
     {
         type: 'input',
-        name: 'questions',
-        message: 'Questions'
+        name: 'github',
+        message: 'Please enter Github username '
     }
 ];
 
