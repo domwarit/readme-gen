@@ -1,9 +1,10 @@
 
-#Good Readme Generator
+#undefined
 
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/domiwar/git)
 ## Description
 
-In this app the user will be able to construct a readme that includes all information to be detailed
+git
 
 ## Table of Contents
 
@@ -17,15 +18,16 @@ In this app the user will be able to construct a readme that includes all inform
 
 ## Installation
 
-This is the 2nd installation
+git
 
 ## Usage
 
-JavaScript
+git
 
 ## License
 
-![license](https://img.shields.io/badges/lincense-MIT-blue)
+## License
+  This project is licensed under the MIT license.
 
 ## Contributing
 
@@ -33,12 +35,12 @@ undefined
 
 ## Test 
 
-0
+git
 
 ## User Information
 
 
 
 
-GitHub Username: [@domiwar.it]
+GitHub Username: [@domiwar]
 
